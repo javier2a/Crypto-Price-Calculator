@@ -5,8 +5,8 @@
 # Links 
 
 
-* 
-* 
+* https://animated-caramel-2dc21f.netlify.app/
+* https://javier2a.github.io/Crypto-Price-Calculator/
 
 # Skills used in this project
 
